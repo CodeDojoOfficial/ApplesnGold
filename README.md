@@ -15,4 +15,4 @@ Apples'n'Gold is an expirimental computer clicker game. It has many bugs, and ma
 - Initial game release.
 
 ### Collaborators
-- [Lance Gjerstad](https://github.com/lmgjerstad 'Lance Gjerstad on GitHub')
+- [Lance Gjerstad](https://github.com/lmgjerstad/ApplesNGold 'Lance Gjerstad on GitHub')
